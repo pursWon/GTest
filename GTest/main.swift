@@ -7,7 +7,7 @@
 print("b")
 print("hoho")
 
-let yubi = 1..30
+let yubi = 1...30
 for i in yubi {
     print(i)
 }
